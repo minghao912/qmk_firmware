@@ -6,9 +6,9 @@
 #define VENDOR_ID       0xFEED
 #define PRODUCT_ID      0x6060
 #define DEVICE_VER      0x0001
-#define MANUFACTURER    qmkbuilder
-#define PRODUCT         keyboard
-#define DESCRIPTION     Keyboard
+#define MANUFACTURER    Ming
+#define PRODUCT         "Nugget Enter"
+#define DESCRIPTION     "A combination ISO/ANSI keyboard with the ISO Enter key but also the ANSI long shift."
 
 /* key matrix size */
 #define MATRIX_ROWS 7
